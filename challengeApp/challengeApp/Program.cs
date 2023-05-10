@@ -14,7 +14,6 @@ else if (sex != "Kobieta" && age < 18)
 {
     Console.WriteLine(" Niepełnoletni mężczyzna");
 }
-if
 
 
 
