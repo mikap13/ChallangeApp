@@ -15,7 +15,7 @@ int counter6= 0;
 int counter7= 0;    
 int counter8= 0;
 int counter9 =0;
-
+Console.WriteLine(" Wynik dla liczby " + number );
 foreach (char letter in lerrers)
 {
     if (letter == '0')
@@ -60,5 +60,6 @@ foreach (char letter in lerrers)
     }
     
 }
+
 
 Console.WriteLine("0 => " + counter0 + "\n1 => " + counter1 + "\n2 => " + counter2 + "\n3 => " + counter3 + "\n4 => " + counter4 + "\n5 => " + counter5 + "\n6 => " + counter6 + "\n7 => " + counter7 + "\n8 => " + counter8 + "\n9 => " + counter9 );
